@@ -1,4 +1,4 @@
-> 基于python+django+vue.js开发的小区物业管理系统
+> 基于python+django+vue.js开发的小区物业管理系统，学习过程中遇到问题可以咨询作者：lengqin1024（微信）
 
 ### 功能介绍
 
@@ -88,5 +88,7 @@ npm run dev
 建议使用国内镜像源安装
 
 
-### 作者微信（lengqin1024）
+### 付费咨询
+
+微信（lengqin1024）
 
